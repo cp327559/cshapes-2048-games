@@ -1,0 +1,47 @@
+D:\游戏2048\2048\2048\bin\Debug\2048.exe.config
+D:\游戏2048\2048\2048\obj\Debug\_2048.Form1.resources
+D:\游戏2048\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+D:\游戏2048\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
+D:\游戏2048\2048\2048\bin\Debug\2048.exe
+D:\游戏2048\2048\2048\bin\Debug\2048.pdb
+D:\游戏2048\2048\2048\obj\Debug\2048.exe
+D:\游戏2048\2048\2048\obj\Debug\2048.pdb
+D:\游戏2048\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+D:\作业\2048\2048\bin\Debug\2048.exe.config
+D:\作业\2048\2048\obj\Debug\2048.exe
+D:\作业\2048\2048\obj\Debug\2048.pdb
+D:\作业\2048\2048\bin\Debug\2048.exe
+D:\作业\2048\2048\bin\Debug\2048.pdb
+D:\作业\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+D:\作业\2048\2048\obj\Debug\_2048.Form1.resources
+D:\作业\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+D:\作业\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
+D:\作业\张汉琪 2018523617001\2048\2048\bin\Debug\2048.exe.config
+D:\作业\张汉琪 2018523617001\2048\2048\obj\Debug\2048.exe
+D:\作业\张汉琪 2018523617001\2048\2048\obj\Debug\2048.pdb
+D:\作业\张汉琪 2018523617001\2048\2048\bin\Debug\2048.exe
+D:\作业\张汉琪 2018523617001\2048\2048\bin\Debug\2048.pdb
+D:\作业\张汉琪 2018523617001\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+D:\作业\张汉琪 2018523617001\2048\2048\obj\Debug\_2048.Form1.resources
+D:\作业\张汉琪 2018523617001\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+D:\作业\张汉琪 2018523617001\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
+D:\2017下半年作业\张汉琪 2018523617001\2048\2048\bin\Debug\2048.exe.config
+D:\2017下半年作业\张汉琪 2018523617001\2048\2048\obj\Debug\2048.exe
+D:\2017下半年作业\张汉琪 2018523617001\2048\2048\obj\Debug\2048.pdb
+D:\2017下半年作业\张汉琪 2018523617001\2048\2048\bin\Debug\2048.exe
+D:\2017下半年作业\张汉琪 2018523617001\2048\2048\bin\Debug\2048.pdb
+D:\2017下半年作业\张汉琪 2018523617001\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+D:\2017下半年作业\张汉琪 2018523617001\2048\2048\obj\Debug\_2048.Form1.resources
+D:\2017下半年作业\张汉琪 2018523617001\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+D:\2017下半年作业\张汉琪 2018523617001\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
+D:\毕业\2017下半年作业\张汉琪 2018523617001\2048\2048\bin\Debug\2048.exe.config
+D:\毕业\2017下半年作业\张汉琪 2018523617001\2048\2048\obj\Debug\2048.pdb
+D:\毕业\2017下半年作业\张汉琪 2018523617001\2048\cshapes-2048-games\2048\bin\Debug\2048.exe.config
+D:\毕业\2017下半年作业\张汉琪 2018523617001\2048\cshapes-2048-games\2048\obj\Debug\2048.pdb
+D:\毕业\2017下半年作业\张汉琪 2018523617001\2048\cshapes-2048-games\2048\bin\Debug\2048.exe
+D:\毕业\2017下半年作业\张汉琪 2018523617001\2048\cshapes-2048-games\2048\bin\Debug\2048.pdb
+D:\毕业\2017下半年作业\张汉琪 2018523617001\2048\cshapes-2048-games\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+D:\毕业\2017下半年作业\张汉琪 2018523617001\2048\cshapes-2048-games\2048\obj\Debug\_2048.Form1.resources
+D:\毕业\2017下半年作业\张汉琪 2018523617001\2048\cshapes-2048-games\2048\obj\Debug\_2048.Properties.Resources.resources
+D:\毕业\2017下半年作业\张汉琪 2018523617001\2048\cshapes-2048-games\2048\obj\Debug\2048.csproj.GenerateResource.Cache
+D:\毕业\2017下半年作业\张汉琪 2018523617001\2048\cshapes-2048-games\2048\obj\Debug\2048.exe
